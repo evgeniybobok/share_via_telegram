@@ -1,4 +1,4 @@
-![Install from Chrome Web Store](chrome_webstore_icon.png)
+[![Install from Chrome Web Store](chrome_webstore_icon.png)](https://chromewebstore.google.com/detail/share-via-telegram/phhmllhhondgbkaifcompghkadamdanc)
 
 Allows to share current page via Telegram messenger in just one click
 
